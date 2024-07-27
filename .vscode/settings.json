@@ -1,0 +1,11 @@
+{
+  "editor.tabSize": 2,
+  "eslint.format.enable": true,
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "editor.formatOnSave": true,
+  // fix all auto fixable problems when save
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "always"
+  },
+  "files.autoSave": "afterDelay"
+}
